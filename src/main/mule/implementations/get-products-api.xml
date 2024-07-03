@@ -14,7 +14,7 @@ output application/json
 {
   productId: "7382020",
   prouctName: "Apple",
-  productProvider: "Apple Inc",
+  productProvider: "Apple Inc, USA",
   productDescription: "Detailed information about products"
 } as Object {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
             </ee:message>
