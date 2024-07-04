@@ -14,9 +14,9 @@ output application/json
 {
   productId: "7382020372929",
   prouctName: "Apple",
-  productProvider: "Apple Inc, Kansas, USA",
+  productProvider: "Apple Inc, Sprint, USA",
   productDescription: "Detailed information about products"
-} as Object {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
+}]]></ee:set-payload>
             </ee:message>
         </ee:transform>
     </flow>
