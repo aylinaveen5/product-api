@@ -26,7 +26,7 @@
 						<extensions>true</extensions>
 						<configuration>
 							<cloudHubDeployment>
-								<applicationName>abc-dev-product-api</applicationName>
+								<applicationName>naani-dev-product-api</applicationName>
 								<environment>Dev</environment>
 								<region>us-east-1</region>
 								<workers>1</workers>
@@ -131,9 +131,9 @@
 	</dependencies>
 	<repositories>
 		<repository>
-			<id>anypoint-exchange-v2</id>
+			<id>anypoint-exchange-v3</id>
 			<name>Anypoint Exchange</name>
-			<url>https://maven.anypoint.mulesoft.com/api/v2/maven</url>
+			<url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
 			<layout>default</layout>
 		</repository>
 		<repository>
