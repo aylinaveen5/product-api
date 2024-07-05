@@ -12,7 +12,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-  productId: "73820",
+  productId: "73820503527",
   prouctName: "Apple",
   productProvider: "Apple Inc, Sprint, USA",
   productDescription: "Detailed information about products, what else you need"
