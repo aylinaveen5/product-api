@@ -26,7 +26,7 @@
 						<extensions>true</extensions>
 						<configuration>
 							<cloudHubDeployment>
-								<applicationName>naani-dev-product-api</applicationName>
+								<applicationName>espit-dev-product-api</applicationName>
 								<environment>Dev</environment>
 								<region>us-east-1</region>
 								<workers>1</workers>
