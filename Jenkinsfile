@@ -11,7 +11,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo "*********Munit test Execution Completed*********"
+                echo "********* Munit test Execution Completed *********"
             }
         }
         stage('Deployment') { 
