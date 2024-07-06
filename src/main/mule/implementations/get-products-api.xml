@@ -15,7 +15,7 @@ output application/json
   productId: "73820503527",
   prouctName: "Apple",
   productProvider: "Apple Inc, Sprint, USA",
-  productDescription: "Detailed information about products"
+  productDescription: "Detailed information about products for Apple products"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
